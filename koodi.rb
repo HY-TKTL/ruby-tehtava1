@@ -1,1 +1,3 @@
-# kirjoita koodi tänne
+def summa(first, second)
+	first + second
+end
